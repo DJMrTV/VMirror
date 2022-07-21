@@ -9,20 +9,15 @@ namespace VMirror
 
         public List<ReflectedClass> ReflectedSubClasses;
 
-            void GenFile()
-            {
+        public List<ReflectedItem> Items;
+        void GenFile()
+        {
                 
-            }
+        }
 
-            void AddReflectedSubItem(string Typename, string Name)
-            {
-                
-            }
+        void AddReflectedSubItem(string Typename, string Name)
+        {
             
-            
-            
-            
-
-
+        }
     }
 }
